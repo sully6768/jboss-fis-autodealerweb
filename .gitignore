@@ -11,3 +11,4 @@ target
 .checkstyle
 *.log
 .pmd
+.buildpath
